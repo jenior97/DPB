@@ -22,7 +22,7 @@ if __name__ == "__main__":
                     help="type of simulation environment")
     ap.add_argument('-b', "--num-batch", type=int, default=10,
                     help="# of batch")
-    ap.add_argument('-s' ,'--seed',  type=int, default=1, help='A random seed')
+    ap.add_argument('-s' ,'--seed',  type=int, default=12345, help='A random seed')
     ap.add_argument('-w' ,'--exploration-weight',  type=float, default=0.5, help='DPB hyperparameter exploration weight')
     ap.add_argument('-g' ,'--discounting-factor',  type=float, default=0.99, help='DPB hyperparameter discounting factor')
     ap.add_argument('-d' ,'--delta',  type=float, default=0.7, help='DPB hyperparameter delta')

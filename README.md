@@ -1,6 +1,6 @@
-The official implementation of the paper **"[Time-varying Preference Bandits for Personalizing Robot Behaviors]()"**.
+The official implementation of the paper **"[Time-varying Preference Bandits for Robot behavior Personalization]()"**.
 
-Please visit our [webpage]() for more details.
+Please visit our [webpage](https://jenior97.github.io/timevaryng_pbl/) for more details.
 
 
 
